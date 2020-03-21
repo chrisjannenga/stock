@@ -1,5 +1,13 @@
 # Stock
 
+## Overview
+
+`Stock` is an application built for managing Cattle Ranches. 
+
+
+---
+# Technical Details
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
 
 ## Development server
